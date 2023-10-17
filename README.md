@@ -5,4 +5,4 @@
 
 *Im a student*
 
-<image src="1MQLE3L.jpg">
+<image src="1MQLE3L.jpg" alt>
