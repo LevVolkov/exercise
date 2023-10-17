@@ -5,6 +5,4 @@
 
 *Im a student*
 
-![photo][def]
-
-[def]: /1MQLE3L-1.jpg
+<image src=1MQLE3L-4.jpg>
