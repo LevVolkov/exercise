@@ -5,6 +5,6 @@
 
 *Im a student*
 
-![photo][photo]
+![photo][def]
 
-[photo]: https://netology.ru/dist/public/images/logo-color-text_1MQLE3L-2.jpg
+[def]: /1MQLE3L-1.jpg
