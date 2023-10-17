@@ -2,6 +2,6 @@
 *My name is Lev*
 *Im from Russia*
 *Im a student*
-(Photo)[![Alt text][def]]
+![photo](![Alt text][def])
 
-[def]: 1MQLE3L.jpg
+[def]: 1MQLE3L-1.jpg
